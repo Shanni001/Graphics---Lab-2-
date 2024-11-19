@@ -1,5 +1,5 @@
 import cairo
-import math
+
 
 # Image dimensions
 WIDTH, HEIGHT = 500, 600
